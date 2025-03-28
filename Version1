@@ -13,9 +13,9 @@ import trackpy as tp
 import pims
 import av
 
-input_path = r'C:\Users\Abhi\Downloads\8Vpp_30%glycerol_20x.avi'
-output = r"C:\Users\Abhi\Documents\biomint_viscosity_project\frames_filt"
-output_round2 = r"C:\Users\Abhi\Documents\biomint_viscosity_project\frames_filt_round2"
+input_path = r' ' #Enter input path of file
+output = r" " #Enter output file path for first analysis section
+output_round2 = r" " #Enter output file path for second analysis section
 #particle tracking
 #frames_arr = ImageSequence(r"C:\Users\Abhi\Documents\biomint_viscosity_project\visc_vid_frames_extract") #numpy array of pixel intensities
 #def gray(image):
